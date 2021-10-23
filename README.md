@@ -1,3 +1,10 @@
+## react-native-tel-input
+
+<div align="center">
+	<img src="https://user-images.githubusercontent.com/48245207/138543997-524fe036-7f81-4d24-8b37-99b326081d90.gif"/>
+</div>
+
+    npm i react-native-tel-input
 ### Usage
 
 	import React, {useState} from 'react';
