@@ -14,8 +14,12 @@
     "tel-input",
     "phone-number"
   ],
-  "author": "s-sukesh",
+  "author": "sukesh-s",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sukesh-s/react-native-tel-input"
+  },
   "peerDependencies": {
     "react": "*",
     "react-native": "*"
